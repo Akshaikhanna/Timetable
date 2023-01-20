@@ -1,0 +1,42 @@
+body{
+    margin-top: 12%;
+    margin-left: 15%;
+    border: 2px solid black;
+    width: max-content;
+}
+
+.table{
+    width: 100px;
+    height: 100px;
+}
+.day{
+    display: flex;
+}
+.day > div{
+    border: 1px black solid;
+    width: 100px;
+    height: 50px;
+}
+.br{
+    width: 40px !important;
+    border: none !important;
+    font-weight: bold;
+}
+
+.d{
+    display: flex;
+    width: 400px;
+}
+
+.d > div{
+    font-weight: bold;
+    width: 150px;
+    height: 100px;
+}
+
+.input{
+    outline: none !important;
+    border: none;
+    width: 93px;
+    height: 30px;   
+}
