@@ -46,23 +46,27 @@ const timetable = [
             classes:[
                 {
                     time:'9.00 AM',
-                    subject:'PR1-4A'
+                    subject:'1CD-4A'
                 },
                 {
                     time:'9.50 AM',
-                    subject:'PR1-4A'
+                    subject:'FS1-4A'
                 },
                 {
                     time:'11.00 AM',
-                    subject:''
+                    subject:'SEM-4A'
+                },
+                {
+                    time:'11.50 AM',
+                    subject:'FS1-4A'
                 },
                 {
                     time:'1.40 PM',
-                    subject:''
+                    subject:'PR2-4A'
                 },
                 {
                     time:'2.30 PM',
-                    subject:''
+                    subject:'PR2-4A'
                 },
                 {
                     time:'3.35 PM',
@@ -70,7 +74,7 @@ const timetable = [
                 },
                 {
                     time:'4.25 PM',
-                    subject:''
+                    subject:'PR2-4A'
                 }
             ]
         },
@@ -79,36 +83,36 @@ const timetable = [
             classes:
             [
                 {
-                    time:'',
-                    subject:''
+                    time:'9.00 AM',
+                    subject:'SEM-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'9.50 AM',
+                    subject:'FS1-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'11.00 AM',
+                    subject:'1CD-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'11.50 AM',
+                    subject:'FS1-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'1.40 PM',
+                    subject:'PR3-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'2.30 PM',
+                    subject:'PR3-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'3.35 PM',
+                    subject:'PR3-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'4.25 PM',
+                    subject:'PR3-4A'
                 }
             ]
         },
@@ -116,36 +120,36 @@ const timetable = [
             day:'Thursday',
             classes:[
                 { 
-                    time:'',
-                    subject:''
+                    time:'9.00 AM',
+                    subject:'SEM-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'9.50 AM',
+                    subject:'TWM-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'11.00 AM',
+                    subject:'SEM-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'11.50 AM',
+                    subject:'1CD-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'1.40 PM',
+                    subject:'LIB-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'2.30 PM',
+                    subject:'PR4-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'3.35 PM',
+                    subject:'PR4-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'4.25 PM',
+                    subject:'PR4-4A'
                 }
             ]
         },
@@ -153,36 +157,36 @@ const timetable = [
             day:'Friday',
             classes:[
                 {
-                    time:'',
-                    subject:''
+                    time:'9.00 AM',
+                    subject:'SEM-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'9.50 AM',
+                    subject:'SEM-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'11.00 AM',
+                    subject:'AH-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'11.50 AM',
+                    subject:'AH-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'1.40 PM',
+                    subject:'SEM-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'2.30 PM',
+                    subject:'SEM-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'3.35 PM',
+                    subject:'SEM-4A'
                 },
                 {
-                    time:'',
-                    subject:''
+                    time:'4.25 PM',
+                    subject:'SEM-4A'
                 }
             ]
         }
