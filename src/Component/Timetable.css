@@ -9,6 +9,7 @@ body{
     width: 100px;
     height: 100px;
 }
+
 .day{
     display: flex;
 }
@@ -26,6 +27,7 @@ body{
 .d{
     display: flex;
     width: 400px;
+    font-weight: bold;
 }
 
 .d > div{
@@ -39,4 +41,40 @@ body{
     border: none;
     width: 93px;
     height: 30px;   
+}
+
+.search{
+    margin-top: 2%;
+}
+
+.one{
+    font-weight: bold;
+}
+
+.two{
+    font-weight: bold;
+}
+
+.three{
+    font-weight: bold;
+}
+
+.four{
+    font-weight: bold;
+}
+
+.five{
+    font-weight: bold;
+}
+
+.six{
+    font-weight: bold;
+}
+
+.seven{
+    font-weight: bold;
+}
+
+.eigth{
+    font-weight: bold;
 }
