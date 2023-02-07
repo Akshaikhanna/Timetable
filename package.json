@@ -7,6 +7,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "fs": "^0.0.1-security",
+    "git-remote-origin-url": "^4.0.0",
     "mysql": "^2.18.1",
     "mysql2": "^3.1.0",
     "path": "^0.12.7",
@@ -15,7 +16,7 @@
     "react-scripts": "5.0.1",
     "react-svg-pan-zoom": "^3.12.0",
     "react-zoom-pan-pinch": "^2.2.0",
-    "sequelize": "^6.28.0",
+    "sequelize": "^6.11.0",
     "sequelize-cli": "^6.6.0",
     "sqlite3": "^5.1.4",
     "upper-case": "^2.0.2",
@@ -44,5 +45,30 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "https-browserify": "^1.0.0",
+    "os-browserify": "^0.3.0",
+    "process": "^0.11.10",
+    "react-app-rewired": "^2.2.1",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "url": "^0.11.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshaikhanna/timetables.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshaikhanna/timetables/issues"
+  },
+  "homepage": "https://github.com/Akshaikhanna/timetables#readme"
 }

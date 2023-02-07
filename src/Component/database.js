@@ -1,5 +1,5 @@
 const Sequelize = require('sequelize');
-const sequelize = new Sequelize('time_table_query', 'root', 'root', {
+const sequelize = new Sequelize('employee', 'root', 'root', {
   host: 'localhost',
   dialect: 'mysql'
 });

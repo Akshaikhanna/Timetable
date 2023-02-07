@@ -70,7 +70,7 @@ const timetable = [
                 },
                 {
                     time:'3.35 PM',
-                    subject:''
+                    subject:'PR2-4A'
                 },
                 {
                     time:'4.25 PM',
@@ -84,7 +84,7 @@ const timetable = [
             [
                 {
                     time:'9.00 AM',
-                    subject:'SEM-4A'
+                    subject:'SEM-4A'   
                 },
                 {
                     time:'9.50 AM',
@@ -192,11 +192,10 @@ const timetable = [
         }
 ];
 
-app.get('/timetable',(req, res)=>{
+app.get('/timetable/employee',(req, res)=>{
     res.send(Timetable);
 });
 
 app.listen(port, ()=>{
     console.log(`http://localhost:${port}`);
 });
-// dfgjkjsdfhkjsdhfsdfsf
